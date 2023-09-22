@@ -12,3 +12,6 @@ It is recommended that you install the requirements in a fresh virtual environme
 
 # Outcome
 After combining attributes into a single dimension, I found the optimum number of clusters would be 5. I was unable to label these clusters speficically, but you can my tableau charts that will give you an idea of what the clustering could look like as a mvp.
+
+# Timeline
+The timeline for this learning project was half a week.
